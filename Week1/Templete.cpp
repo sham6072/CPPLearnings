@@ -12,4 +12,5 @@ int main(){
     int arr[] = {8,96 ,7,8,4};
 
     print(arr,5);
+    
 }
